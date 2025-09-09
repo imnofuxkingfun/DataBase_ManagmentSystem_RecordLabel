@@ -31,6 +31,7 @@ This project is a database management system designed to store and manage inform
 The database is implemented using SQL and PL/SQL on Oracle. It allows managing record label operations such as handling contracts, tracking musicians and their bands, organizing albums and songs, and managing employees with specific roles like band managers, contract administrators, marketing researchers, and audio engineers.  
 
 This project provides a well-documented, complex and optimized solution for managing record label data efficiently.
-> This project is also a PL/SQL focused continuation of [this](https://github.com/imnofuxkingfun/DataBase_RecordLabel) project. 
+> This project is also a PL/SQL focused continuation of [this](https://github.com/imnofuxkingfun/DataBase_RecordLabel) project.
+
 ![casa discuri erd](https://github.com/user-attachments/assets/0251dbd2-c40d-4108-90dc-91e93f38916b)
 ![casa discuri conceptuala](https://github.com/user-attachments/assets/b504ca5b-39c3-49d3-982f-5e5a0a00040b)
